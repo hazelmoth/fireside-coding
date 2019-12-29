@@ -1,12 +1,12 @@
 
 body {
     background: #EC9967;  /* fallback for old browsers */  /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-linear-gradient(left, #EC9967, #DA4453);
-    background: -moz-linear-gradient(left, #EC9967, #DA4453);
-    background: -o-linear-gradient(left, #EC9967, #DA4453);
-    background: linear-gradient(to right, #EC9967, #DA4453); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(left, #EC9967, #EC9967);
+    background: -moz-linear-gradient(left, #EC9967, #EC9967);
+    background: -o-linear-gradient(left, #EC9967, #EC9967);
+    background: linear-gradient(to right, #EC9967, #EC9967); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #9C6151;
 }
-#header {
-  color: #EC9967;
+.header {
+  color: #6A4F4D;
 }
