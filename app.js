@@ -4,7 +4,7 @@ app.set("view engine", "ejs");
 
 
 app.get("/", function(req, res) {
-        res.render("views/main.ejs", {});
+        res.render("main", {});
 });
 
 app.listen(process.env.PORT, process.env.IP, function(){
