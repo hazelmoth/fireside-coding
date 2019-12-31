@@ -6,9 +6,11 @@ body {
     background: -o-linear-gradient(left, #EC9967, #EC9967);
     background: linear-gradient(to right, #EC9967, #EC9967); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     color: #6A4F4d;
+    font-family: 'Caveat', cursive;
 }
 .header {
+  font-family: 'Courgette', cursive;
   background-color: #9C6151;
   color: #F7E2AC;
-  padding: 30px;
+  padding: 15px;
 }
