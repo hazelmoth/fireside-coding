@@ -14,3 +14,7 @@ body {
   color: #F7E2AC;
   padding: 15px;
 }
+.content {
+  flex:1;
+  font-size: 40px;
+}
