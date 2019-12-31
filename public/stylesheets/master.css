@@ -8,6 +8,10 @@ body {
     color: #6A4F4d;
     font-family: 'Caveat', cursive;
 }
+.page {
+  padding: 0;
+  margin: 0;
+}
 .header {
   font-family: 'Courgette', cursive;
   background-color: #9C6151;
