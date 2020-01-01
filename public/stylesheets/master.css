@@ -24,6 +24,20 @@ body {
   font-family: 'Courier Prime', monospace;
   font-size: 30px;
 }
+hr.header-divider {
+  border-top: 4px double #8c8b8b;
+	text-align: center;
+}
+hr.header-divider:after {
+	content: '\002665';
+	display: inline-block;
+	position: relative;
+	top: -15px;
+	padding: 0 10px;
+	background: #EC9967;
+	color: #8c8b8b;
+	font-size: 18px;
+}
 .d-flex {
   flex:1;
 }
