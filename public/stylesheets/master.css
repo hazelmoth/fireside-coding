@@ -34,7 +34,7 @@ hr.header-divider:after {
 	position: relative;
 	top: -15px;
 	padding: 0 10px;
-	background: #EC9967;
+	background: #f0f0f0;
 	color: #8c8b8b;
 	font-size: 18px;
 }
