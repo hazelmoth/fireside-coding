@@ -11,9 +11,8 @@ body {
 }
 .header {
   font-family: 'Courgette', serif;
-  /*background-color: #9C6151;
-  color: #F7E2AC;*/
-  color: #9C6151;
+  background-color: #9C6151;
+  color: #F7E2AC;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -23,6 +22,11 @@ body {
   color: #6A4F4d;
   font-family: 'Courier Prime', monospace;
   font-size: 30px;
+}
+#stamp path {
+  fill: #9C6151;
+  stroke: #9C6151;
+  /* avoid gap in FF */
 }
 .d-flex {
   flex:1;
