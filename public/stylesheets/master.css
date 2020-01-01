@@ -23,11 +23,6 @@ body {
   font-family: 'Courier Prime', monospace;
   font-size: 30px;
 }
-#stamp path {
-  fill: #9C6151;
-  stroke: #9C6151;
-  /* avoid gap in FF */
-}
 .d-flex {
   flex:1;
 }
